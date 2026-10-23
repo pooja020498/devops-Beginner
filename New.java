@@ -3,5 +3,7 @@ public class New{
  public static void main(String[] args){
 
   System.out.println("Hello, welcome in java Tutorial");
+  System.out.println("Hello, welcome in CG");
+
 }
 }
